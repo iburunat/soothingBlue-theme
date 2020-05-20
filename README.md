@@ -1,2 +1,2 @@
 # soothingBlue-theme
-A soothing-Blue theme for Emacs
+A not-so-soothing-Blue theme for Emacs
